@@ -1,5 +1,4 @@
-Terraform MozReview module
-========================
+# [archived] Terraform MozReview module
 
 A Terraform module to create a MozReview AWS stack
 
